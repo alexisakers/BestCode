@@ -26,6 +26,12 @@ The extension is available on the Firefox add-on store.
 
 [Get BestCode for Firefox](https://addons.mozilla.org/en-US/firefox/addon/bestcode)
 
+### Safari
+
+To install the extension on Safari, download the `BestCode.safariextz` file in the Releases section, and open the file. Safari will guide you through the installation process. 
+
+[Download latest version](https://github.com/alexaubry/BestCode/releases)
+
 ## Contributing
 
 If you find a bug or want to suggest an improvement to the extension, you contribution is very much appreciated! Please read the [Contributor's Guide](CONTRIBUTING.md) and the [Code of Conduct](CODE_OF_CONDUCT.md) before engaging with the project.
