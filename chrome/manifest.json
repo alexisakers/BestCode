@@ -2,6 +2,7 @@
     "name": "BestCode",
     "version": "1.0.0",
     "description": "Replaces every misspellings Xcode in text.",
+    "homepage_url": "https://github.com/alexaubry/BestCode",
     "manifest_version": 2,
     "content_scripts": [
         {
