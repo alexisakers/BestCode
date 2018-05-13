@@ -9,7 +9,7 @@ Do you want to bang your head against a wall every time someone writes *XCode*? 
 ## Before/After
 
 <p align="center">
-    <img src="BeforeAfter.png" width="480" max-width="90%" alt="Before / After" />
+    <img src="BeforeAfter.png" width="1080" max-width="90%" alt="Before / After" />
 </p>
 
 ## Installing
