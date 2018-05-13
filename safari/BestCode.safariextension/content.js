@@ -1,3 +1,9 @@
+/**
+ * BestCode
+ * Copyright (c) 2018-present Alexis Aubry and the BestCode authors.
+ * All rights reserved.
+ */
+
 var elements = document.getElementsByTagName('*');
 
 for (var i = 0; i < elements.length; i++) {
