@@ -14,7 +14,17 @@ Do you want to bang your head against a wall every time someone writes *XCode*? 
 
 ## Installing
 
-TBD
+### Chrome
+
+The extension is available on the Chrome Web Store.
+
+[Get BestCode for Chrome](https://chrome.google.com/webstore/detail/bestcode/bhoejlhbicmildjaaimfbjcppllkpjla)
+
+### Firefox
+
+The extension is available on the Firefox add-on store.
+
+[Get BestCode for Firefox](https://addons.mozilla.org/en-US/firefox/addon/bestcode)
 
 ## Contributing
 
