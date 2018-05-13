@@ -30,7 +30,7 @@ The extension is available on the Firefox add-on store.
 
 To install the extension on Safari, download the `BestCode.safariextz` file in the Releases section, and open the file. Safari will guide you through the installation process. 
 
-[Download latest version](https://github.com/alexaubry/BestCode/releases)
+[Download latest Safari version](https://github.com/alexaubry/BestCode/releases/tag/1.0.0)
 
 ## Contributing
 
